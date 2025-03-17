@@ -1,0 +1,36 @@
+variable,value,label
+wealth_quintile,1,Poor
+wealth_quintile,2,Poor
+wealth_quintile,3,Medium
+wealth_quintile,4,Wealthy
+wealth_quintile,5,Wealthy
+previous_csection,1,Yes
+previous_csection,0,No
+f3_water_source_location,1,In own dwelling
+f3_water_source_location,2,In yard or plot
+f3_water_source_location,90,Others
+f4_contraception_last_year,1,Yes
+f4_contraception_last_year,0,No
+f4_high_bp_or_hypertension,1,Yes
+f4_high_bp_or_hypertension,0,No
+f4_chronic_heart_condition_history,1,Yes
+f4_chronic_heart_condition_history,0,No
+f4_pregnancy_unrelated_seizures,1,Yes
+f4_pregnancy_unrelated_seizures,0,No
+f6a_vitamins,1,Yes
+f6a_vitamins,0,No
+f6a_currently_taking_bp_medication,1,Yes
+f6a_currently_taking_bp_medication,0,No
+f6a_currently_taking_diabetes_medication,1,Yes
+f6a_currently_taking_diabetes_medication,0,No
+f6a_tobacco,1,Yes
+f6a_tobacco,0,No
+f6a_antibiotics,1,Yes
+f6a_antibiotics,0,No
+f3_toilet_facility_location,1,In own dwelling
+f3_toilet_facility_location,2,In own yard or plot
+f3_toilet_facility_location,90,Elsewhere
+f3_neighbor_help_pregnancy_problem,1,Yes
+f3_neighbor_help_pregnancy_problem,0,No
+f3_community_help_pregnancy_problem,1,Yes
+f3_community_help_pregnancy_problem,0,No
