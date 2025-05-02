@@ -11,6 +11,8 @@ f3_water_source_location,2,In yard or plot
 f3_water_source_location,90,Others
 f4_contraception_last_year,1,Yes
 f4_contraception_last_year,0,No
+f4_high_blood_sugar_history,1,Yes
+f4_high_blood_sugar_history,0,No
 f4_high_bp_or_hypertension,1,Yes
 f4_high_bp_or_hypertension,0,No
 f4_chronic_heart_condition_history,1,Yes
